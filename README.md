@@ -1,9 +1,9 @@
 Карточки
 ===
 
+[![Build status](https://ci.appveyor.com/api/projects/status/wiifljyy8njit92a?svg=true)](https://ci.appveyor.com/project/Oulegich/ra16-homeworks-composition-cards)
 
-
-[Ссылка на Github Pages]()
+[Ссылка на Github Pages](https://oulegich.github.io/ra16-homeworks-composition-cards/)
 
 Вам необходимо реализовать компонент карточек, позволяющий использовать себя следующим образом:
 
